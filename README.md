@@ -1,2 +1,3 @@
-# TIL
-오늘 배운 것들을 정리합니다.
+<div align='center'>
+  <h1>🤓 Today I Learned</h1>
+</div>
