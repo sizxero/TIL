@@ -6,6 +6,6 @@
 🪝 [Hook](https://github.com/sizxero/TIL/blob/main/%F0%9F%92%99%20React/%5BReact%5D%20Hook.md)
 
 ## 💛 JavaScript
-🖨️ [Function](https://github.com/sizxero/TIL/blob/main/%F0%9F%92%9B%20JavaScript/%5BJavaScript%5D%20Function.md)
+🖨️ [Function](https://velog.io/@codename-602/JavaScript-Function)
 
 🌼 [var, let, const](https://velog.io/@codename-602/JavaScript-var-let-const)
