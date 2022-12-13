@@ -6,7 +6,7 @@
 🚩 [Rendering](https://velog.io/@codename-602/FrontEnd-Rendering)
 
 ## 💙 React
-🪝 [Hook](https://github.com/sizxero/TIL/blob/main/%F0%9F%92%99%20React/%5BReact%5D%20Hook.md)
+🪝 [Hook](https://velog.io/@codename-602/React-Hook)
 
 ## 💛 JavaScript
 🖨️ [Function](https://velog.io/@codename-602/JavaScript-Function)
