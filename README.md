@@ -19,4 +19,4 @@
 
 ## 💜 TypeScript
 
-🧵 typescript 설치하고 실행하기
+🧵 [typescript 설치하고 실행하기](https://velog.io/@codename-602/TypeScript-typescript-%EC%84%A4%EC%B9%98-%EC%8B%A4%ED%96%89-kh3reafh)
